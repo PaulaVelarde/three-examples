@@ -1,4 +1,4 @@
-# Chapter 7 - WebGL and ThreeJS. Code examples.
+# Chapter 5 - WebGL and ThreeJS. Code examples.
 
 Code examples review in the classroom lectures of Web media course @ CENTRO.
 
@@ -16,4 +16,3 @@ The repository is a NodeJS project (note the package.json file), and have two de
 Grunt is configured through the Gruntfile.js and it add a task for linting code.
 
 Run the check task with: `$ grunt check`
-# three-examples
